@@ -1,0 +1,7 @@
+import pyttsx3
+import speech_recognition
+
+
+
+
+
