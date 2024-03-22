@@ -1,0 +1,154 @@
+
+
+body {
+  background-image: url(https://iaudits.co.za/images/robotics.jpg);
+}
+
+p{
+
+  
+  margin-top: 20px;
+  margin-left: 80%;
+  
+}
+
+input[id=submit]{
+  font-size: 16px;
+  background: linear-gradient(#32b0f0 5%, #70d8f5 100%);
+  border: 1px solid #100d06;
+  color: #1a130b;
+  font-weight: bold;
+  cursor: pointer;
+  width: 15%;
+  border-radius: 5px;
+  padding: 20px 20px;
+  margin : 150px 60px;
+  outline:none;
+  }
+  input[id=submit]:hover{
+  background: linear-gradient(#7fdbe9 5%, #a2f2f2 100%);
+  }
+  
+input[id=submit1]{
+    font-size: 16px;
+    background: linear-gradient(#45d9f3 5%, #98eef8 100%);
+    border: 1px solid #120f0a;
+    color: #1a1f1c;
+    font-weight: bold;
+    cursor: pointer;
+    width: 15%;
+    border-radius: 5px;
+    padding: 20px 20px;
+    margin: 150px 60px;
+    outline:none;
+    }
+    input[id=submit1]:hover{
+    background: linear-gradient(#91eff6 5%, #a3eaf5 100%);
+    }
+ 
+input[id=submit2]{
+      font-size: 16px;
+      background: linear-gradient(#45d9f3 5%, #98eef8 100%);
+      border: 1px solid #0d0b0b;
+      color: #020504;
+      font-weight: bold;
+      cursor: pointer;
+      width: 15%;
+      border-radius: 5px;
+      padding: 20px 20px;
+      margin: 150px 60px;
+      outline:none;
+      }
+      input[id=submit2]:hover{
+        background: linear-gradient(#91eff6 5%, #a3eaf5 100%);
+      } 
+       
+input[id=submit3]{
+        font-size: 16px;
+        background: linear-gradient(#45d9f3 5%, #98eef8 100%);
+        border: 1px solid #23211a;
+        color: #2d1920;
+        font-weight: bold;
+        cursor: pointer;
+        width: 15%;
+        border-radius: 5px;
+        padding: 20px 20px;
+        margin: 150px 60px;
+        outline:none;
+        }
+        input[id=submit3]:hover{
+          background: linear-gradient(#91eff6 5%, #a3eaf5 100%);
+        }
+
+
+input[id=submit4]{
+          font-size: 16px;
+          background: linear-gradient(#45d9f3 5%, #98eef8 100%);
+          border: 1px solid #23211a;
+          color: #2d1920;
+          font-weight: bold;
+          cursor: pointer;
+          width: 15%;
+          border-radius: 5px;
+          padding: 20px 20px;
+          margin: 50px 60px;
+          outline:none;
+          }
+          input[id=submit4]:hover{
+            background: linear-gradient(#91eff6 5%, #a3eaf5 100%);
+          }
+       
+         
+input[id=submit5]{
+            font-size: 16px;
+            background: linear-gradient(#45d9f3 5%, #98eef8 100%);
+            border: 1px solid #23211a;
+            color: #2d1920;
+            font-weight: bold;
+            cursor: pointer;
+            width: 15%;
+            border-radius: 5px;
+            padding: 20px 20px;
+            margin: 50px 60px;
+            outline:none;
+            }
+            input[id=submit5]:hover{
+              background: linear-gradient(#91eff6 5%, #a3eaf5 100%);
+            }
+       
+            
+input[id=submit6]{
+              font-size: 16px;
+              background: linear-gradient(#45d9f3 5%, #98eef8 100%);
+              border: 1px solid #23211a;
+              color: #2d1920;
+              font-weight: bold;
+              cursor: pointer;
+              width: 15%;
+              border-radius: 5px;
+              padding: 20px 20px;
+              margin: 50px 60px;
+              outline:none;
+              }
+              input[id=submit6]:hover{
+                background: linear-gradient(#91eff6 5%, #a3eaf5 100%);
+              }
+       
+              
+input[id=submit7]{
+                font-size: 16px;
+                background: linear-gradient(#80dcec 5%, #b8ebf0 100%);
+                border: 1px solid #23211a;
+                color: #2d1920;
+                font-weight: bold;
+                cursor: pointer;
+                width: 15%;
+                border-radius: 5px;
+                padding: 20px 20px;
+                margin: 50px 60px;
+                outline:none;
+                }
+                input[id=submit7]:hover{
+                  background: linear-gradient(#9edde2 5%, #c1e7ed 100%);
+                }
+               
